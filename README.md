@@ -345,10 +345,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Pandu the Gang**
 
-- GitHub: [@panduthegang](https://github.com/panduthegang)
-- Repository: [Coding Hustlers](https://github.com/panduthegang/Coding-Hustlers)
+
+- GitHub: [@rpsingh077](https://github.com/rpsingh077)
+- Repository: [Coding Hustlers](https://github.com/rpsingh077/Coding-Hustlers)
 
 ---
 
